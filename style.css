@@ -75,11 +75,7 @@ div span {
     padding: 0 2rem;
 }
 
-#heading {
-    font-family: 'Montserrat', sans-serif;
-}
-
-#pricing {
+#pricing,#heading {
     font-family: 'Fraunces', serif;
 }
 
