@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/productpreviewcardcomponent-o_OS1Kze1K)
+- Live Site URL: [live site URL](https://ram0o7.github.io/product-preview-card-component-main/)
 
 ### Built with
 
